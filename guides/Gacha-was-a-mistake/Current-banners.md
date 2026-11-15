@@ -1,5 +1,5 @@
 ---
-title: Gacha - Shunko Windy ★★★ // Maruzensky Speed SSR & Nishino Flower Wit SSR (rerun)
+title: Gacha - Shinko Windy ★★★ // Maruzensky Speed SSR & Nishino Flower Wit SSR (rerun)
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -75,11 +75,11 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Shunko Windy ★★★
+### Bannière Umamusume : Shinko Windy ★★★
 
-![Image de présentation de la bannière Shunko Windy](/public/assets/Gacha-reviews/2026/072_Uma-Banner.png)
+![Image de présentation de la bannière Shinko Windy](/public/assets/Gacha-reviews/2026/072_Uma-Banner.png)
 
-⏩ **Shunko Windy** :
+⏩ **Shinko Windy** :
 
 _Shinko Windy est une Pace Chaser pour le Mile Dirt. Avec de l’inspiration, elle peut courir en Medium et en Sprint mais aussi en tant que Late Surger. (1 :star: pour le Medium et Late Surger, 4 :star: pour le Sprint). Elle possède un gold de vélocité pour le Dirt et un gold green pour le Dirt. Son unique est un boost hybride de vélocité et d’accélération._
  
@@ -136,10 +136,10 @@ Dans les autres cas, skippez la bannière.
 
 Il y a quelques changements dans les reviews à partir de maintenant.
 
-Pour les reviews des Umamusumes, il y a maintenant l'ajout de leur skills évolués. Afin d'avoir le meilleur rendu possible, n'hésiter pas à nous donnez vos avis si vous avez d'autres préférences pour l'affichage des skills évolués.
+Pour les reviews des Umamusumes, il y a maintenant l'ajout de leur skills évolués. Afin d'avoir le meilleur rendu possible, n'hésiter pas à nous donner votre avis si vous avez d'autres préférences pour l'affichage des skills évolués.
 
-Pour les reviews des cartes Support, le changement est de notre côté. Les reviews vont devenir plus sévères avec les supports. Ceci est dû au fait que Grand Master est le dernier scénario avec 2 cartes Wit et le premier scénario où on utilise réelement que 2 cartes Speed. Ce changement s'applique surtout sur les cartes Wit, les autres types vont garder la même dureté de review qu'elle possédé déjà.
-Il y aure des cartes Wit, bien que fortes, qui seront jugé à moins importantes dû qu'elle aurait une durée de vie réduite dès le prochain scénario.
+Pour les reviews des cartes Support, le changement est de notre côté. Les cartes support seront évaluées de manière plus exigeante. En effet, Grand Master sera le dernier scénario avec 2 cartes Wit , et le premier scénario où on utilise réellement que 2 cartes Speed. À priori, les review des cartes Power, Guts et Stamina ne changeront pas trop.
+Ainsi, dés le prochain scénario, certaines cartes Wit de qualité pourraient être jugées moins importantes, à cause -par exemple- d'une durée de vie réduite.
 
 :::
 
@@ -153,15 +153,15 @@ Il y aure des cartes Wit, bien que fortes, qui seront jugé à moins importantes
 
 _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir parfaitement en tant que Late Surger. Avec de l’inspiration, elle peut courir en Mile (1 :star:). Elle possède un gold de Current Speed pour le Medium / Long et un gold d’accélération d’End Closer. Son unique est un boost de vélocité de seconde moitié de Mid-Race._
  
-- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :wit:. C’est un excellent combo, que ce soit en Medium ou Long. Elle utilisera généralement le deck basique de Grand Master : 2 Speed / 2 Wit / Ancestor / 1 Flex. Elle ne peut pas utiliser sa propre carte Wit, cela fait que ses cartes Wit seront généralement Mejiro Ramonu et Sweep Tosho. C'est un point négatif plutôt important.
+- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :wit:. C’est un excellent combo, que ce soit en Medium ou Long. Elle utilisera généralement le deck basique de Grand Master : 2 Speed / 2 Wit / Ancestor / 1 Flex. Elle ne peut pas utiliser sa propre carte Wit, cela fait que ses cartes Wit seront généralement Mejiro Ramonu et Sweep Tosho. C'est un point négatif plutôt important vu qu'elle ne peut pas obtenir Daring Strike, un skill important pour les End Closers. De plus, le skill white de Daring Strike, Early Start, n'est pas bon car de puissance trop faible.
  
 - Ses gold skillls et skills évolués sont :
  
     - **Beautiful Form**, la gold version de _Break the Mold_. C’est un gold de Current Speed qui s’active aléatoirement sur le 3ème corner des courses Medium et Long si l’utilisatrice est en dehors du top 40% (≥4 en CM et ≥5 en LoH).<br>
-    Le skill est très puissant et aura toujours une forte utilité. Il dure un peu plus longtemps que les skills gold de vélocité basique.<br>
+    Le skill est très efficace et aura toujours une forte utilité. Il a aussi la durée max (à ce jour) pour un skill de cette puissance.<br>
     Mr. C.B possède une évolution pour ce gold skill
- 
-    - _**Soaring Steps**_ est l’évolution de Mr. C.B pour son gold skill **Beautiful Form**. L’évolution améliore la puissance du boost de Current Speed.
+    
+    ↪️ _**Soaring Steps**_ est l’évolution de Mr. C.B pour son gold skill **Beautiful Form**. L’évolution améliore la puissance du boost de Current Speed.
  
     ::: details Obtention
  
@@ -171,10 +171,10 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
     ::: 
 
     - **Encroaching Shadow**, la gold version de Straightaway Spurt. C’est un gold d’accéléraion d’End Closer, s’activant en ligne droite si l’utilisatrice rentre en Last Spurt Mode.<br>
-    Le skill est excellent, surtout en Long où il s’active sur toutes les courses. C’est l’outil d’accélération principal pour les End Closer et n’est pour l’instant pas obtenable avec un support.<br>
+    Le skill est excellent, surtout en Long où il s’active sur toutes les courses. C’est l’outil d’accélération principal pour les End Closer, et n’est pour l’instant pas obtenable avec un support.<br>
     Mr. C.B possède deux évolutions pour ce gold skill.
 
-    - **_Spring from the Earth_** est l’une des évolutions de Mr. C.B pour son gold skill **Encroaching Shadow**. L’évolution lui donne un boost de Field of View. Le boost est inutile.
+    ↪️ **_Spring from the Earth_** est l’une des évolutions de Mr. C.B pour son gold skill **Encroaching Shadow**. L’évolution lui donne un boost de Field of View. Le boost est inutile.
 
     ::: details Obtention
  
@@ -183,10 +183,11 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
  
     :::
 
-    - _**Dancing Flourish**_ est l’autre évolution de Mr. C.B pour son gold skill **Encroaching Shadow**. Le skill modifie son activation et se spécifie pour les courses Medium. Le skill évolué possède 2 activations différentes : <br>
-    Dans le premier cas, si le premier quart du Late-Race se trouve sur une ligne droite, le skill s’active immédiatement.
-    Dans le deuxième cas, si le premier quart du Late-Race ne se trouve pas sur une ligne droite, l’activation devient aléatoire sur cette portion.<br>
-    L’évolution est très bonne, car Encroaching Shadow ne s’active pas si le Late-Race ne se trouve pas sur une ligne droite. Cela lui permet d’être utilisable dans tous les Medium.
+    ↪️ _**Dancing Flourish**_ est l’autre évolution de Mr. C.B pour son gold skill **Encroaching Shadow**. Le skill modifie son activation et se spécifie pour les courses Medium. Le skill évolué possède 2 activations différentes : <br>
+    Le skill s'active dans le premier quart du Late-Race ; si cette portion de la course est en ligne droite, l'activation est instantanée. Mais si c'est sur un corner, l'activation est aléatoire dans ce tronçon<br>
+    L’évolution est très bonne, car Encroaching Shadow ne s’active pas si le Late-Race ne se trouve pas sur une ligne droite. Cela lui permet d’être utilisable dans tous les Medium.<br>
+    
+    **Les umas qui possède un 3ème skill évolué, ne l'auront pas forcément dès leur sortie. Cela va dépendre des choix de Cygames si on reçoit de les skills en avance ou non.**
  
     ::: details Obtention
  
@@ -197,18 +198,25 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
  
 - Mr.C.B possède 2 Secret Events :
 
-    - Le premier lui demandera de gagner la Japan Cup et Arima Kinen de l’année classique. Cela veut dire de faire 2 courses en plus. Elle reçoit en récompense 25 de Speed et Guts, 20 Skill Points et des hints pour _Breakin’ Out_.
+    - Le premier lui demandera de gagner la Japan Cup et Arima Kinen de l’année classique. Ce sont donc 2 courses en plus. Elle reçoit en récompense 25 de Speed et Guts, 20 Skill Points et des hints pour _Breakin’ Out_.<br>
+    Cela reste un assez bon Event, surtout si vous pouvez faire l'autre Secret Event en même temps
 
-    - Le second s’active si pendant l’évènement « A Little Love Story » vous prenez le second choix et que vous gagnez une course qui ne fait pas partie de ses objectifs. Ce Secret Event peut se combiner avec le premier. Elle reçoit en récompense 15 d’énergie, 10 de Power et des hints pour Ramp Up.<br>
+    - L'autre Secret Event ne peux s'activer que si vous avez sélectionné l'option du bas dans l'évènement aléatoire « A Little Love Story » ; après ça, il faut gagner au moins une course non obligatoire. Ce Secret Event peut se combiner avec le premier. Elle reçoit en récompense 15 d’énergie, 10 de Power et des hints pour Ramp Up.<br>
     Si l'évènement « A Little Love Story » s’active avant la Japan Cup ou Arima Kinen de l’année classique, il est rentable de faire ces 2 courses en plus.
  
-- Elle possède aussi 2 white skills importants, _Uma Stan_ qui provient de ses skills à éveillés et _Tail Held High_ qui provient d’un de ses évènements.
+- Elle possède aussi 2 white skills importants, _Uma Stan_ qui provient de ses skills à éveiller et _Tail Held High_ qui provient d’un de ses évènements.
  
 - Son unique, _**Lyrical Journey**_, est un boost de vélocité de durée accrue et de puissance réduite. La puissance de l’unique dans les courses Medium et Long s’améliore un peu si Mr. C.B se trouvent 20 mètres derrière l’uma en première place.<br>
 L’unique s’active en seconde moitié de Mid-Race si Mr. C.B se trouvent en dehors du top 50% (≥5 en CM et ≥ en LoH).<br>
 L'unique est très bon, et lui permet de rattraper le peloton avant le Late-Race.
 
 ⏩ **Twin Turbo** :
+
+::: warning Review de Twin Turbo
+
+Twin Turbo est une uma ★, mais la review se concentre sur sa version ★★★
+
+:::
 
 _Twin Turbo est une Front Runner pour le Mile et le Medium. Elle possède un gold de vélocité de Front Runner et un gold d’accélération de Front Runner. Son unique est un boost de vélocité de forte durée et un debuff faible de Current Speed pour Twin Turbo en Last Spurt._
  
@@ -251,18 +259,18 @@ _Twin Turbo est une Front Runner pour le Mile et le Medium. Elle possède un gol
  
     - Le dernier lui demande de gagner l’Arima Kinen (Senior).  C’est une course dans ses objectifs. En récompense, elle reçoit 1 dans toutes les stats, 50 Skill Points, et des hints pour _Deep Breath_ et _Nakayama Racecourse_.
  
-    Outre le 3ème Secret Event, aucun n’est vraiment intéressant.
+    Le 1er et 2nd Secret Event sont très intéressant pour la quantité de Skill Points qu'il donne. Avec les Skill Points donner par les courses, il est totalement possible de faire un minimum de 250 Skill Points.
  
-- Son unique, _**Turbo BLAST !**_, est un boost de vélocité de forte durée (13 secondes de durée de base) et faible puissance. Il est aussi un debuff faible de Current Speed pour Twin Turbo à partir du Last Spurt. L’unique s’active à 35% de distance de course si Twin Turbo est en tête et qu’il y est un écart d’au moins 1L avec l’uma en deuxième position. Le debuff de Current Speed s’active seulement si elle a activé la première partie de l’unique.<br>
-L’unique n’est pas très fort, elle ne prendra généralement pas assez d'avance en Mid-Race, et elle était déjà plus lente que les umas dans les autres stratégies en Last Spurt.
+- Son unique, _**Turbo BLAST !**_, est un boost de vélocité de forte durée (13 secondes de durée de base) et faible puissance. Il est aussi un debuff faible de Current Speed pour Twin Turbo à partir du Last Spurt. L’unique s’active à 35% de distance de course si Twin Turbo est en tête et qu’il y est un écart d’au moins 1L avec l’uma en deuxième position. Le debuff de Current Speed s’active seulement si elle a activé la première partie de l’unique, et possède une valeur inférieur à un white skill. Le debuff est minuscule.<br>
+L’unique s'active bien, tant qu'elle n'affrontes pas d'autres Runaway, surtout Silence Suzuka. La durée du boost rends l'unique plutôt puissant, et lui fait un bon gain de distance. Le debuff, bien que faible, se trouvent sur la partie où elle est déjà plus lente de base que toutes les autres stratégies. Tout comme l'anime a pu le démontrer, elle faiit du tout ou rien. 
 
 #### Pull ou pas ? :
 
-Si l’une d’elle est votre Oshi ou que vous jouez des End Closers, oui.
+On ne pull que pour Mr. C.B. Twin Turbo est une uma ★, elle tombera facilement sur d'autres pull uma. Donc si Mr. C.B est votre Oshi ou que vous êtes un joueur End Closer, c'est une bonne bannière.
  
 Mr. C.B est une très bonne uma, l’une des meilleures End Closer sortie depuis le début. Elle est normalement meilleure que Narita Taishin, mais sa propre carte et son gold skill Daring Strike fait que Narita Taishin reste meilleure. Elle devra attendre au moins la prochaine Narita Taishin Wit pour devenir meilleure qu’elle.
  
-Twin Turbo est de base une uma 1 étoile, donc il n’est pas nécessaire de pull pour elle immédiatement. Ses gold skills sont bons, mais en dehors de ça, elle est plutôt faible.
+Twin Turbo est de base une uma 1 étoile, donc il n’est pas nécessaire de pull pour elle immédiatement. Ses gold skills et unique sont bons, et elle est assez régulière en Stadium, ce qui est bon vu que tout le monde peut l'avoir.
 
 Pullez en fonction de votre besoin pour Mr. C.B.
 
@@ -274,11 +282,13 @@ _Mejito Ramonu Wit SSR est une carte Semi-Spécialiste pour le Mile/Medium._
  
 - La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Wit Bonus à 3LB et un second Wit Bonus à MLB.
  
-- Son Unique Effect lui donne 4 de Training Effectiveness pour chaque skill de vélocité posséder par l’uma, jusqu’à un total de 20 de Training Effectiveness. C’est un Unique Effect puissant mais non optimal. Vous aurez besoin de prendre des skills avant la fin de la run, le plus tôt possible. Cela veut dire que les skills que vous prendrez ne seront pas affectés pour un potentielle Fast Learner.
+- Son Unique Effect lui donne 4 de Training Effectiveness pour chaque skill de vélocité possédé par l’uma, jusqu’à un total de 20 de Training Effectiveness. C’est un Unique Effect puissant mais non optimal. Vous aurez besoin de prendre des skills avant la fin de la run, le plus tôt possible. Cela veut dire que les skills que vous prendrez ne seront pas affectés pour un potentiel Fast Learner.<br>
+Le plus tard pour activer son Unique Effect est le premier été de la carrière. Un point positif est que les uniques de vélocité sont compris dans les skills de vélocité. Les umas avec un unique de vélocité (l'icône de vélocité) n'auront besoin que de 4 skills à prendre.
  
 - Ses rainbows sont très bons avec son bon Friendship Bonus et son Special Priority correct, amplifié par son Unique Effect et ses Stats Bonus. Son cross-training est aussi très bon avec son Unique Effect et ses Stats Bonus.
  
-- Elle propose une liste de 9 hints❗, principalement pour le Mile et le Medium, et le bon _Straightaway Adept_. Elle possède un Hint Level parfait et excellent Hint Frequency. Ses hints seront toujours excellents et sont utiles pour son Unique Effect.
+- Elle propose une liste de 9 hints❗, principalement pour le Mile et le Medium, et ainsi que _Straightaway Adept_. Elle possède un Hint Level parfait et excellent Hint Frequency. Ses hints seront toujours excellents et sont utiles pour son Unique Effect.<br>
+Hint Levels 4 veut dire deux choses : Le hint donne un skill maxé. Le skill sort de la liste des hints possible des cartes. C'est un énorme confort.
  
 - Son gold skill est **Superb Gait**, la gold version de _Graceful Gait_. C’est un gold skill de vélocité pour le Mile/Medium, s’activant aléatoirement en Mid-Race.
 C’est un bon gold skill basique.
@@ -290,7 +300,7 @@ C’est un bon gold skill basique.
 - Son Unique Effect lui donne du Power Bonus et 15 d’Initial Friendship Gauge.
  
 - Ses rainbows sont faibles. Elle possède un bon Friendship Bonus et un faible Special Priority. Ils sont un peu amplifiés par ses Stats Bonus. L’absence de Training Effectiveness fait vraiment mal à la carte.<br>
-Son cross-training est basiquement inexistant avec seulement ses Stats Bonus.
+Son cross-training est basiquement inexistant avec seulement ses Stats Bonus (Power Bonus et Skill Point Bonus).
  
 - Elle propose une liste de 9 hints❗, principalement de Pace Chaser et pour le Medium, et l’excellent _Risky Business_. Elle possède un bon Hint Level et Hint Frequency, ses hints seront sympas.
  
@@ -305,7 +315,8 @@ Son cross-training est basiquement inexistant avec seulement ses Stats Bonus.
 - Ses rainbows sont bons avec ses bons Friendship Bonus et Special Priority, un peu amplifié avec son faible Training Effectiveness et ses Stats Bonus. Elle est un poil moins forte que Mayano Top Gun Stamina SR.<br>
 Son cross-training est faible avec son faible de Training Effectiveness et ses Stats Bonus.
  
-- Elle propose une liste de 8 hints❗, principalement pour le Long et skills de debuff. Elle possède un bon Hint Level et Hint Frequency, ses hints seront sympas.
+- Elle propose une liste de 8 hints❗, principalement pour le Long et skills de debuff. Elle possède un bon Hint Level et Hint Frequency, ses hints seront sympas.<br>
+Elle prends la plce de version R pour build les debuffeuses.
  
 - Son dernier Chain Event propose soit _Corner Recovery_ ou _Right Handed_ en fonction de votre choix du premier Chain Event. Le premier choix vous donnera Corner Recovery et le second vous donnera Right Handed.
 
@@ -315,7 +326,7 @@ Son cross-training est faible avec son faible de Training Effectiveness et ses S
  
 - Son Unique Effect lui donne 5 de Training Effectiveness et 5 de Race Bonus.
  
-- Ses rainbows sont assez bons, malgré son Friendship Bonus correct et son faible Special Priority, grâce à son bon Training Effectiveness et son Guts Bonus. Ses rainbows sont de même puissance que K.S. Miracle Guts SR.<br>
+- Ses rainbows sont assez bons. Son Friendship Bonus est correct, mais son Specialty Priority est plus faible. Par contre, son Guts Bonus et son Training Effectiveness compensent bien. Ses rainbows sont de même puissance que K.S. Miracle Guts SR.<br>
 Son cross-training est bon grâce à son bon Training Effectiveness. C’est le meilleur des cartes Guts SR en cross-training.
  
 - Elle propose une liste de 6 hints, principalement pour le Medium. Elle possède un très bon Hint Level et Hint Frequency. Ses hints seront puissants.
@@ -328,7 +339,7 @@ Son cross-training est bon grâce à son bon Training Effectiveness. C’est le 
  
 - Son Unique Effect lui donne 10 de Friendship Bonus et Skill Point Bonus. Cela fait que son Friendship Bonus est en réalité plus élevé que ce que la carte montre. Elle possède 37,5 de Friendship Bonus.
  
-- Ses rainbows sont du même niveau que les autres cartes Speed SR, avec son très bon Friendship Bonus et son faible Special Priority, un peu accentué avec ses Stats Bonus.<br>
+- Ses rainbows sont du même niveau que les autres cartes Speed SR, avec son très bon Friendship Bonus, mais son faible Special Priority. Cependant, ses Stats Bonus (Power Bonus et Skill Point Bonus) compensent un peu.<br>
 Son cross-training est inexistant en dehors de ses Stats Bonus.
  
 - Elle propose une liste de 7 hints❗, principalement de Late Surger et d’End Closer. Elle possède un bon Hint Level et du Hint Frequency. Ses hints seront sympas.
@@ -339,18 +350,20 @@ Son cross-training est inexistant en dehors de ses Stats Bonus.
 
 Les cartes SR sont peu intéressantes, on va se concentrer sur Mejiro Ramonu Wit SSR.
  
-Elle est pour l’instant la meilleure carte Wit dans le jeu, bien que ce ne soit pas un gros power creep. Cependant, elle n’est pas aussi nécessaire à ce que plein de personnes disent. Son problème est d’être une carte Semi-Spécialiste et non Généraliste ou Spécialiste. Cela fait que son utilisation n’est pas aussi universelle que ses 2 cas, bien que le fait qu’elle se spécialise en Mile et en Medium, les 2 distances les plus communes reste très sympa.<br>
-Elle dépend fortement des autres cartes Wit qui vont sortir pendant Grand Master et le prochain scénario, Projet l’Arc. En fonction de la stratégie, Mejiro Ramonu vous servira pendant un ½ scénario ou jusqu’ à 1 scénario et 2/3.
+Elle est pour l’instant la meilleure carte Wit dans le jeu, bien que ce ne soit pas un gros power creep. Cependant, beaucoup de gens l'évaluent plus importante qu'elle n'est réellement.<br>
+Elle dépend fortement des autres cartes Wit qui vont sortir pendant Grand Master et le prochain scénario, Projet l’Arc. En fonction de la stratégie, Mejiro Ramonu vous servira pendant un ½ scénario ou jusqu’à 1 scénario et 2/3.
  
-Les Front Runners sont ceux qui ont le moins besoin de Mejiro Ramonu avec les End Closers. Votre carte principale deviendra Mihono Bourbon (Pique-Nique) Wit SSR, qui sort peu de temps après Mejiro Ramonu. Leur seconde carte Wit pour Grand Master sera Aston Machan qui sort vers le milieu du scénario. La carte perd énormément de valeur dès Mihono Bourbon.
+Les Front Runners sont ceux qui ont le moins besoin de Mejiro Ramonu. Votre carte principale deviendra Mihono Bourbon (Pique-Nique) Wit SSR, qui sort peu de temps après Mejiro Ramonu. Leur seconde carte Wit pour Grand Master sera Aston Machan (qui nous donne Concentration) qui sort vers le milieu du scénario. La carte perd énormément de valeur dès Mihono Bourbon.
  
-Les Pace Chasers et Late Surger seront ceux qui utiliseront la carte le plus longtemps, surtout les Late Surger. Les Pace Chasers peuvent garder Fine Motion Wit SSR pendant l’Arc, le premier scénario où on utilise une seule Wit, jusqu’à ce qu’elle se fasse remplacer par Mejiro McQueen Wit SSR. Les Late Surgers utilisent Mejiro Ramonu jusqu'à l'arrivée de Satono Diamond Wit SSR. Ce sont aussi 2 stratégies qui recevront une carte Ultra-Spécialisé pour le Long, ce qui peut sortir Ramonu de vos decks Long.
+Les Pace Chasers et Late Surger seront ceux qui utiliseront la carte le plus longtemps, surtout les Late Surger. Les Pace Chasers peuvent garder Fine Motion Wit SSR, jusqu’à ce qu’elle se fasse remplacer par Mejiro McQueen Wit SSR. Les Late Surgers utilisent Mejiro Ramonu jusqu'à l'arrivée de Satono Diamond Wit SSR, vers la fin de L'Arc. Ce sont aussi 2 stratégies qui recevront une carte Ultra-Spécialisé pour le Long, ce qui peut sortir Ramonu de vos decks Long.
  
-Les End Closers utiliseront Mejiro Ramonu seulement pendant Grand Master et que sur les CM Mile et Medium. Elles possèdent déjà leur carte Wit principale en Mr. C.B Wit SSR et une seconde carte Wit avec Sweep Tosho.
+Les End Closers utiliseront Mejiro Ramonu seulement pendant Grand Master et uniquement sur les CM Mile et Medium. Elles possèdent déjà leur carte Wit principale en Mr. C.B Wit SSR et une seconde carte Wit avec Sweep Tosho.
  
-Le fait que Grand Master est le dernier scénario à 2 cartes Wit et l’existence de certaines cartes Wit, fait qu’il est préférable d’utiliser Mejiro Ramonu en tant que Borrow, au lieu de dépenser fortement pour la MLB.
+Grand Master est le dernier scénario à 2 cartes Wit et on va préferer les cartes Wit Spécialiste (de Stratégie), donc il est préférable d’utiliser Mejiro Ramonu en tant que Borrow, au lieu de dépenser fortement pour la MLB. Une autre raison de l'utiliser en borrow est Progenitors and Guides Group SSR. Elle sera la carte Must Pull de Grand Masters (0LB est suffisant), qui vous servira aussi au scénario suivant pour l'auto-training qui se passera sur Grand Master.
+
+En tant que borrow, elle est par contre excellente. Elle est une carte Semi-Spécialiste, pour les distances les plus communes Mile et Medium, et donne énormément de skills. Cela lui permet de prendre la place des autres borrows actuelles sur ces 2 distances, en étant égale ou meilleure que sa compétition (seul Daiichi Ruby Power SSR en Mile peut-être considéré égale à Mejiro Ramonu Wit SSR pour son gold d'accélération).
  
-Mejiro Ramonu Wit SSR est une excellente carte, mais ne possède pas nécessairement une durée de vie ou une puissance nécessaire pour dépenser autant de vos carats dedans.
+Mejiro Ramonu Wit SSR est une excellente carte, mais ne possède pas nécessairement une durée de vie ou une puissance démentielle pour dépenser autant de vos carats dedans. Les joueurs qui n'utilisent QUE des Late Surger ont une vrai raison de pull pour Mejiro Ramonu Wit, leur carte Wit Spécialiste sort bien plus tard.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
