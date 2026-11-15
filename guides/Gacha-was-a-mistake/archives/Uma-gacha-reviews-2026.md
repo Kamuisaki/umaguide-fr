@@ -1994,13 +1994,13 @@ Ce n’est pas une bannière à pull, à moins que vous ayez besoin d’une Fron
 
 :::
 
-## #72 - Shunko Windy ★★★
+## #72 - Shinko Windy ★★★
 
-![Image de présentation de la bannière Shunko Windy](/public/assets/Gacha-reviews/2026/072_Uma-Banner.png)
+![Image de présentation de la bannière Shinko Windy](/public/assets/Gacha-reviews/2026/072_Uma-Banner.png)
 
 ::: details REVIEW
 
-⏩ **Shunko Windy** :
+⏩ **Shinko Windy** :
 
 _Shinko Windy est une Pace Chaser pour le Mile Dirt. Avec de l’inspiration, elle peut courir en Medium et en Sprint mais aussi en tant que Late Surger. (1 :star: pour le Medium et Late Surger, 4 :star: pour le Sprint). Elle possède un gold de vélocité pour le Dirt et un gold green pour le Dirt. Son unique est un boost hybride de vélocité et d’accélération._
  
