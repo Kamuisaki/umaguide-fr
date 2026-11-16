@@ -132,17 +132,6 @@ Dans les autres cas, skippez la bannière.
 
 ---
 
-::: danger Review à partir de Grand Master
-
-Il y a quelques changements dans les reviews à partir de maintenant.
-
-Pour les reviews des Umamusumes, il y a maintenant l'ajout de leur skills évolués. Afin d'avoir le meilleur rendu possible, n'hésiter pas à nous donner votre avis si vous avez d'autres préférences pour l'affichage des skills évolués.
-
-Pour les reviews des cartes Support, le changement est de notre côté. Les cartes support seront évaluées de manière plus exigeante. En effet, Grand Master sera le dernier scénario avec 2 cartes Wit , et le premier scénario où on utilise réellement que 2 cartes Speed. À priori, les review des cartes Power, Guts et Stamina ne changeront pas trop.
-Ainsi, dés le prochain scénario, certaines cartes Wit de qualité pourraient être jugées moins importantes, à cause -par exemple- d'une durée de vie réduite.
-
-:::
-
 # Bannières à suivre (02 Décembre 23h)  
 
 <!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/071_Banners_early_preview.jpg) -->
@@ -349,21 +338,12 @@ Son cross-training est inexistant en dehors de ses Stats Bonus.
 #### PULL OU PAS
 
 Les cartes SR sont peu intéressantes, on va se concentrer sur Mejiro Ramonu Wit SSR.
- 
-Elle est pour l’instant la meilleure carte Wit dans le jeu, bien que ce ne soit pas un gros power creep. Cependant, beaucoup de gens l'évaluent plus importante qu'elle n'est réellement.<br>
-Elle dépend fortement des autres cartes Wit qui vont sortir pendant Grand Master et le prochain scénario, Projet l’Arc. En fonction de la stratégie, Mejiro Ramonu vous servira pendant un ½ scénario ou jusqu’à 1 scénario et 2/3.
- 
-Les Front Runners sont ceux qui ont le moins besoin de Mejiro Ramonu. Votre carte principale deviendra Mihono Bourbon (Pique-Nique) Wit SSR, qui sort peu de temps après Mejiro Ramonu. Leur seconde carte Wit pour Grand Master sera Aston Machan (qui nous donne Concentration) qui sort vers le milieu du scénario. La carte perd énormément de valeur dès Mihono Bourbon.
- 
-Les Pace Chasers et Late Surger seront ceux qui utiliseront la carte le plus longtemps, surtout les Late Surger. Les Pace Chasers peuvent garder Fine Motion Wit SSR, jusqu’à ce qu’elle se fasse remplacer par Mejiro McQueen Wit SSR. Les Late Surgers utilisent Mejiro Ramonu jusqu'à l'arrivée de Satono Diamond Wit SSR, vers la fin de L'Arc. Ce sont aussi 2 stratégies qui recevront une carte Ultra-Spécialisé pour le Long, ce qui peut sortir Ramonu de vos decks Long.
- 
-Les End Closers utiliseront Mejiro Ramonu seulement pendant Grand Master et uniquement sur les CM Mile et Medium. Elles possèdent déjà leur carte Wit principale en Mr. C.B Wit SSR et une seconde carte Wit avec Sweep Tosho.
- 
-Grand Master est le dernier scénario à 2 cartes Wit et on va préferer les cartes Wit Spécialiste (de Stratégie), donc il est préférable d’utiliser Mejiro Ramonu en tant que Borrow, au lieu de dépenser fortement pour la MLB. Une autre raison de l'utiliser en borrow est Progenitors and Guides Group SSR. Elle sera la carte Must Pull de Grand Masters (0LB est suffisant), qui vous servira aussi au scénario suivant pour l'auto-training qui se passera sur Grand Master.
 
-En tant que borrow, elle est par contre excellente. Elle est une carte Semi-Spécialiste, pour les distances les plus communes Mile et Medium, et donne énormément de skills. Cela lui permet de prendre la place des autres borrows actuelles sur ces 2 distances, en étant égale ou meilleure que sa compétition (seul Daiichi Ruby Power SSR en Mile peut-être considéré égale à Mejiro Ramonu Wit SSR pour son gold d'accélération).
- 
-Mejiro Ramonu Wit SSR est une excellente carte, mais ne possède pas nécessairement une durée de vie ou une puissance démentielle pour dépenser autant de vos carats dedans. Les joueurs qui n'utilisent QUE des Late Surger ont une vrai raison de pull pour Mejiro Ramonu Wit, leur carte Wit Spécialiste sort bien plus tard.
+Avant de pull pour elle, utilisez tous vos free pull (120 normalement), et faites en conséquence. L'optimal est de MLB Mejiro Ramonu et de pull Progenitors and Guides LB0 pour avoir le slot de carte flex libre. C'est l'objectif à atteindre. Elle est pour l'instant la meilleur carte Wit du jeu, surtout en statstick.
+
+Sa durée de vie varie entre 1 et 2,5 scénario en fonction du style de course. Grand Master est le dernier scénario avec 2 cartes Wit obligatoire et dès le Projet l'Arc, on va utiliser 1 carte Wit. Il y aura quand même en PvP, des CM et LoH, où on utilisera 2 cartes Wit pendant l'Arc. Elle deviendra alors cette seconde carte Wit, surtout pour les Late Surger et End Closer. L'avoir vous laissera toujours le slot de Flex libre.
+
+Elle est à pull, surtout grâce aux 120 pulls gratuits.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
