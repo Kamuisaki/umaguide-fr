@@ -148,8 +148,8 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
  
     - **Beautiful Form**, la gold version de _Break the Mold_. C’est un gold de Current Speed qui s’active aléatoirement sur le 3ème corner des courses Medium et Long si l’utilisatrice est en dehors du top 40% (≥4 en CM et ≥5 en LoH).<br>
     Le skill est très efficace et aura toujours une forte utilité. Il a aussi la durée max (à ce jour) pour un skill de cette puissance.<br>
-    Mr. C.B possède une évolution pour ce gold skill
-    
+    Mr. C.B possède une évolution pour ce gold skill.<br>
+    <br>
     ↪️ _**Soaring Steps**_ est l’évolution de Mr. C.B pour son gold skill **Beautiful Form**. L’évolution améliore la puissance du boost de Current Speed.
  
     ::: details Obtention
@@ -161,8 +161,8 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
 
     - **Encroaching Shadow**, la gold version de Straightaway Spurt. C’est un gold d’accéléraion d’End Closer, s’activant en ligne droite si l’utilisatrice rentre en Last Spurt Mode.<br>
     Le skill est excellent, surtout en Long où il s’active sur toutes les courses. C’est l’outil d’accélération principal pour les End Closer, et n’est pour l’instant pas obtenable avec un support.<br>
-    Mr. C.B possède deux évolutions pour ce gold skill.
-
+    Mr. C.B possède deux évolutions pour ce gold skill.<br>
+    <br>
     ↪️ **_Spring from the Earth_** est l’une des évolutions de Mr. C.B pour son gold skill **Encroaching Shadow**. L’évolution lui donne un boost de Field of View. Le boost est inutile.
 
     ::: details Obtention
@@ -170,7 +170,7 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
     - Posséder au moins 4 skills d’End Closer.
     - Avoir au moins 800 Wit.
  
-    :::
+    :::<br>
 
     ↪️ _**Dancing Flourish**_ est l’autre évolution de Mr. C.B pour son gold skill **Encroaching Shadow**. Le skill modifie son activation et se spécifie pour les courses Medium. Le skill évolué possède 2 activations différentes : <br>
     Le skill s'active dans le premier quart du Late-Race ; si cette portion de la course est en ligne droite, l'activation est instantanée. Mais si c'est sur un corner, l'activation est aléatoire dans ce tronçon<br>
@@ -214,9 +214,9 @@ _Twin Turbo est une Front Runner pour le Mile et le Medium. Elle possède un gol
 - Ses gold skills et skills évolués sont :
  
     - **Giving It 1 000%**, la gold version de _Mad Dash_. C’est un gold skill de vélocité de Front Runner, qui donne un gros boost pour une forte consommation d’HPs (consomme plus qu’un gold skill de debuff d’HPs mais moins qu'un gold skill de recovery). Le skill dure un peu plus longtemps que les skill de vélocité basique. Le skill s’active aléatoirement dans la première partie du Mid-Race. Cette zone d'activation peut l'aider à sécuriser le lead contest.<br>
-    Twin Turbo possède une évolution pour ce gold skill.
- 
-    - _**1 000% Output !**_ est l’évolution de Twin Turbo pour son gold skill **Giving it 1 000%**. L’évolution améliore la puissance du skill.
+    Twin Turbo possède une évolution pour ce gold skill.<br>
+    <br>
+    ↪️ _**1 000% Output !**_ est l’évolution de Twin Turbo pour son gold skill **Giving it 1 000%**. L’évolution améliore la puissance du skill.
  
     ::: details Obtention
  
@@ -227,9 +227,9 @@ _Twin Turbo est une Front Runner pour le Mile et le Medium. Elle possède un gol
  
     - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
     C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.<br>
-    Twin Turbo possède une évolution pour ce gold skill.
- 
-    - _**Turbo’s Leadin’ the Charge !**_ est l’évolution de Twin Turbo pour son gold skill **Taking the Lead**. L’évolution améliore la puissance du skill.
+    Twin Turbo possède une évolution pour ce gold skill.<br>
+    <br>
+    ↪️ _**Turbo’s Leadin’ the Charge !**_ est l’évolution de Twin Turbo pour son gold skill **Taking the Lead**. L’évolution améliore la puissance du skill.
  
     ::: details Obtention
  
@@ -259,7 +259,7 @@ On ne pull que pour Mr. C.B. Twin Turbo est une uma ★, elle tombera facilement
  
 Mr. C.B est une très bonne uma, l’une des meilleures End Closer sortie depuis le début. Elle est normalement meilleure que Narita Taishin, mais sa propre carte et son gold skill Daring Strike fait que Narita Taishin reste meilleure. Elle devra attendre au moins la prochaine Narita Taishin Wit pour devenir meilleure qu’elle.
  
-Twin Turbo est de base une uma 1 étoile, donc il n’est pas nécessaire de pull pour elle immédiatement. Ses gold skills et unique sont bons, et elle est assez régulière en Stadium, ce qui est bon vu que tout le monde peut l'avoir.
+Twin Turbo est de base une uma 1 étoile, donc il n’est pas nécessaire de pull pour elle immédiatement. Ses gold skills et unique sont bons, et elle est assez régulière en Team Trials, ce qui est bon vu que tout le monde peut l'avoir.
 
 Pullez en fonction de votre besoin pour Mr. C.B.
 
@@ -339,11 +339,23 @@ Son cross-training est inexistant en dehors de ses Stats Bonus.
 
 Les cartes SR sont peu intéressantes, on va se concentrer sur Mejiro Ramonu Wit SSR.
 
-Avant de pull pour elle, utilisez tous vos free pull (120 normalement), et faites en conséquence. L'optimal est de MLB Mejiro Ramonu et de pull Progenitors and Guides LB0 pour avoir le slot de carte flex libre. C'est l'objectif à atteindre. Elle est pour l'instant la meilleur carte Wit du jeu, surtout en statstick.
+Avant de pull pour elle, utilisez tous vos free pull (120 normalement), et faites en conséquence. Finir le premier Spark vous donnera au minimum Mejiro Ramonu LB0, vous pourrez décider de faire le 2ème spark en fonction de votre chance et de vos crystaux SSR. L'optimal est de MLB Mejiro Ramonu et de pull Progenitors and Guides LB0 pour avoir le slot de carte flex libre. C'est l'objectif à atteindre. Elle est pour l'instant la meilleur carte Wit du jeu, surtout en statstick.
 
 Sa durée de vie varie entre 1 et 2,5 scénario en fonction du style de course. Grand Master est le dernier scénario avec 2 cartes Wit obligatoire et dès le Projet l'Arc, on va utiliser 1 carte Wit. Il y aura quand même en PvP, des CM et LoH, où on utilisera 2 cartes Wit pendant l'Arc. Elle deviendra alors cette seconde carte Wit, surtout pour les Late Surger et End Closer. L'avoir vous laissera toujours le slot de Flex libre.
 
-Elle est à pull, surtout grâce aux 120 pulls gratuits.
+C'est une (très) bonne cible, surtout grâce aux 120 pulls gratuits. Finissez le spark, et voyez si vous tentez un 2e spark en fonction de ce que vous avez eu sur le premier spark.
+
+::: tip Durée de vie de Ramonu Wit en fonction de la stratégie
+
+**Front Runner :** Les Front Runner sont la stratégie qui en ont le moins besoin. Elle peut être remplacé par Aston Machan Wit SSR, qui sort en milieu de Grand Master, si vous préferez prendre le gold skill Concentration. Sur les courses Sprint et Long, Mejiro Ramonu sera remplacé par Aston Machan, le Mile et le Medium va dépendre de l'importance de Concentration.
+
+**Pace Chaser :** Les Pace Chaser utiliseront Ramonu jusqu'à la moitié (peut-être un poil avant) du scénario Projet L'Arc. Elle sera remplacé par Mejiro McQueen Wit SSR. Dans les CM ou LoH où utiliser 2 cartes Wit sera bon, elle sera la seconde carte Wit.
+
+**Late Surger :** Les Late Surger sont la stratégie qui auront le plus besoin de Mejiro Ramonu. Elle sera remplacé à la fin de Projet L'Arc par Satono Diamond Wit SSR.
+
+**End Closer :** C'est le cas le plus spécial. Cela va dépendre de votre comparaison entre Mejiro Ramonu et Mr. C.B. Si vous trouvez que Mejiro Ramonu est la plus importante des 2, la carte durera jusqu'au début U.A.F Ready GO !, le scénario après le Projet L'Arc, en attendant Narita Taishin Wit SSR (qui sera la carte Wit pour les End Closer pendant un très long moment). Si Mr.C.B est la plus importante, elle restera la carte Wit secondaire jusqu'à la fin de L'Arc (dans les CM et LoH à 2 cartes Wit).
+
+:::
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
