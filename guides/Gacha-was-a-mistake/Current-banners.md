@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/072_Banners_early_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/072_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -150,7 +150,7 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
     Le skill est très efficace et aura toujours une forte utilité. Il a aussi la durée max (à ce jour) pour un skill de cette puissance.<br>
     Mr. C.B possède une évolution pour ce gold skill.<br>
     <br>
-    ↪️ _**Soaring Steps**_ est l’évolution de Mr. C.B pour son gold skill **Beautiful Form**. L’évolution améliore la puissance du boost de Current Speed.
+    - ↪️ _**Soaring Steps**_ est l’évolution de Mr. C.B pour son gold skill **Beautiful Form**. L’évolution améliore la puissance du boost de Current Speed.
  
     ::: details Obtention
  
@@ -163,20 +163,18 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
     Le skill est excellent, surtout en Long où il s’active sur toutes les courses. C’est l’outil d’accélération principal pour les End Closer, et n’est pour l’instant pas obtenable avec un support.<br>
     Mr. C.B possède deux évolutions pour ce gold skill.<br>
     <br>
-    ↪️ **_Spring from the Earth_** est l’une des évolutions de Mr. C.B pour son gold skill **Encroaching Shadow**. L’évolution lui donne un boost de Field of View. Le boost est inutile.
+    - ↪️ **_Spring from the Earth_** est l’une des évolutions de Mr. C.B pour son gold skill **Encroaching Shadow**. L’évolution lui donne un boost de Field of View. Le boost est inutile.
 
     ::: details Obtention
  
     - Posséder au moins 4 skills d’End Closer.
     - Avoir au moins 800 Wit.
  
-    :::<br>
+    :::
 
-    ↪️ _**Dancing Flourish**_ est l’autre évolution de Mr. C.B pour son gold skill **Encroaching Shadow**. Le skill modifie son activation et se spécifie pour les courses Medium. Le skill évolué possède 2 activations différentes : <br>
+    - ↪️ _**Dancing Flourish**_ est l’autre évolution de Mr. C.B pour son gold skill **Encroaching Shadow**. Le skill modifie son activation et se spécifie pour les courses Medium. Le skill évolué possède 2 activations différentes : <br>
     Le skill s'active dans le premier quart du Late-Race ; si cette portion de la course est en ligne droite, l'activation est instantanée. Mais si c'est sur un corner, l'activation est aléatoire dans ce tronçon<br>
     L’évolution est très bonne, car Encroaching Shadow ne s’active pas si le Late-Race ne se trouve pas sur une ligne droite. Cela lui permet d’être utilisable dans tous les Medium.<br>
-    
-    **Les umas qui possède un 3ème skill évolué, ne l'auront pas forcément dès leur sortie. Cela va dépendre des choix de Cygames si on reçoit de les skills en avance ou non.**
  
     ::: details Obtention
  
@@ -184,6 +182,13 @@ _Mr. C.B est une End Closer pour le Medium et le Long. Elle peut aussi courir pa
     - Avoir au moins 800 Speed.
  
     :::
+
+    :::warning 3ème Skill évolué
+
+    Les umas qui possède un 3ème skill évolué, ne l'auront pas forcément dès leur sortie. Cela va dépendre des choix de Cygames si on reçoit de les skills en avance ou non
+
+    :::
+
  
 - Mr.C.B possède 2 Secret Events :
 
@@ -216,7 +221,7 @@ _Twin Turbo est une Front Runner pour le Mile et le Medium. Elle possède un gol
     - **Giving It 1 000%**, la gold version de _Mad Dash_. C’est un gold skill de vélocité de Front Runner, qui donne un gros boost pour une forte consommation d’HPs (consomme plus qu’un gold skill de debuff d’HPs mais moins qu'un gold skill de recovery). Le skill dure un peu plus longtemps que les skill de vélocité basique. Le skill s’active aléatoirement dans la première partie du Mid-Race. Cette zone d'activation peut l'aider à sécuriser le lead contest.<br>
     Twin Turbo possède une évolution pour ce gold skill.<br>
     <br>
-    ↪️ _**1 000% Output !**_ est l’évolution de Twin Turbo pour son gold skill **Giving it 1 000%**. L’évolution améliore la puissance du skill.
+    - ↪️ _**1 000% Output !**_ est l’évolution de Twin Turbo pour son gold skill **Giving it 1 000%**. L’évolution améliore la puissance du skill.
  
     ::: details Obtention
  
@@ -229,7 +234,7 @@ _Twin Turbo est une Front Runner pour le Mile et le Medium. Elle possède un gol
     C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.<br>
     Twin Turbo possède une évolution pour ce gold skill.<br>
     <br>
-    ↪️ _**Turbo’s Leadin’ the Charge !**_ est l’évolution de Twin Turbo pour son gold skill **Taking the Lead**. L’évolution améliore la puissance du skill.
+    - ↪️ _**Turbo’s Leadin’ the Charge !**_ est l’évolution de Twin Turbo pour son gold skill **Taking the Lead**. L’évolution améliore la puissance du skill.
  
     ::: details Obtention
  
@@ -339,7 +344,7 @@ Son cross-training est inexistant en dehors de ses Stats Bonus.
 
 Les cartes SR sont peu intéressantes, on va se concentrer sur Mejiro Ramonu Wit SSR.
 
-Avant de pull pour elle, utilisez tous vos free pull (120 normalement), et faites en conséquence. Finir le premier Spark vous donnera au minimum Mejiro Ramonu LB0, vous pourrez décider de faire le 2ème spark en fonction de votre chance et de vos crystaux SSR. L'optimal est de MLB Mejiro Ramonu et de pull Progenitors and Guides LB0 pour avoir le slot de carte flex libre. C'est l'objectif à atteindre. Elle est pour l'instant la meilleur carte Wit du jeu, surtout en statstick.
+Avant de pull pour elle, utilisez tous vos free pull (120 normalement), et faites en conséquence. Finir le premier Spark vous donnera au minimum Mejiro Ramonu LB0, vous pourrez décider de faire le 2ème spark en fonction de votre chance et de vos crystaux SSR. L'optimal est de MLB Mejiro Ramonu et de pull Progenitors and Guides LB0 pour avoir le slot de carte flex libre. C'est l'objectif à atteindre, surtout pour les joueurs fortement axé vers le PvP. Perma Borrow l'une des 2 est un mauvais choix, sauf pour les joueurs casu. Elle est pour l'instant la meilleur carte Wit du jeu, principalement en statstick.
 
 Sa durée de vie varie entre 1 et 2,5 scénario en fonction du style de course. Grand Master est le dernier scénario avec 2 cartes Wit obligatoire et dès le Projet l'Arc, on va utiliser 1 carte Wit. Il y aura quand même en PvP, des CM et LoH, où on utilisera 2 cartes Wit pendant l'Arc. Elle deviendra alors cette seconde carte Wit, surtout pour les Late Surger et End Closer. L'avoir vous laissera toujours le slot de Flex libre.
 
