@@ -270,6 +270,12 @@ Pullez en fonction de votre besoin pour Mr. C.B.
 
 ### Bannière Support à suivre : Mejiro Ramonu Wit SSR, Agnes Tachyon Power SR, Symboli Rudolf Stamina SR, Mejiro Dober Guts SR & Jungle Pocket Speed SR
 
+::: warning Ce n'est pas forcément la Review Finale
+
+Je pense que beaucoup d'entre vous on vu l'information passé, la bannière de Progenitors and Guides va être potentiellement fusionner avec cette bannière. Si c'est le cas, la review sera modifié dès qu'on aura l'information officielle pour prendre en compte de ce changement. Mais pour donnez une idée de que cela peut apporter, il est possible que je vous conseille de MLB les 2 cartes. Cela deviendrait la meilleur bannière que l'on a vu depuis le début du jeu, pour 2 cartes qui ont durée de vie d'au moins 2 scénarios.
+
+:::
+
 ⏩**Mejiro Ramonu** :wit: :SSR:
 
 _Mejito Ramonu Wit SSR est une carte Semi-Spécialiste pour le Mile/Medium._
